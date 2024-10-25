@@ -1,4 +1,4 @@
-```markdown
+
 # Startup Evaluation Metrics
 
 This document provides a structured overview of essential metrics used for evaluating startups, tailored for investors, founders, and analysts to assess company performance and growth potential. Metrics are organized by importance and contextual relevance, helping you understand the financial health, efficiency, and scalability of a startup.
@@ -79,4 +79,4 @@ Feel free to contribute additional metrics or insights relevant to startup evalu
 
 ### License
 This guide is open-source and available for use and modification.
-```
+
